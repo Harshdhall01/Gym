@@ -19,7 +19,4 @@ A professional, responsive gym website built with HTML, CSS, and JavaScript.
 Simply open `index.html` in any web browser.
 
 ## Author
-[Your Name]
-
-## Project Duration
-Completed in 1 week
+Harsh Dhall
